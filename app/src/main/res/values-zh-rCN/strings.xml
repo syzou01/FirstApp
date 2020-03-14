@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="birth">祝你生日快乐！</string>
+    <string name="yours">爱你的，</string>
+    <string name="name">汤姆</string>
+    <string name="btn">你好</string>
+</resources>
